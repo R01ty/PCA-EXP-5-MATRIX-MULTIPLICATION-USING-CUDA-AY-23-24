@@ -2,7 +2,7 @@
 <h4>ENTER YOUR NAME: Ragul E</h4>
 <h4>ENTER YOUR REGISTER NO: 212221043005</h4>
 <h4>EX. NO :05</h4>
-<h4>DATE: 25:04:2024</h4>
+<h4>DATE: 10.04.2024</h4>
 
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
